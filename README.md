@@ -16,8 +16,8 @@ Github Link: https://github.com/jboe26/WhatsChat.git
 TECHNOLOGIES USED:
 Node JS, Express JS, Sequelize ORM, Handlebars, Bootstrap, MySQL, Socket IO, Passport NPM, ESLint, Heroku, Bcrypt.
 
-MY ROLE:
-This app is developed by the group of 4 people.
+
+This app is developed by:
 Atif Rabbani
 Jarkko Haarla
 Josh Boepple
